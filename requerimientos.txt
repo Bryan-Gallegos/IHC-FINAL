@@ -1,0 +1,7 @@
+		REQUERIMIENTOS
+
+- Tener instalado boostrap en nuestro ordenador.
+- Tener instalado Visual Studio Code.
+- Tener orientación en el uso del código de CSS.
+- Tener conocimiento del uso de JavaScript.
+- Tener experiencia en creación de páginas web con el uso de HTML.
